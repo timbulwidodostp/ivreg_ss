@@ -1,0 +1,2 @@
+# ivreg_ss
+Computes confidence intervals, standard errors, and p-values in an IV regression in which the instrumental variable has a shift-share structure Use ivreg_ss With STATA 19
